@@ -9,14 +9,16 @@ Ultimately, you're looking to build something like this:
 
 ## Learning Goals
 
-- Be able to set up Webpack
-- Know how a frontend (this project) and backend (the Node version of this
+By the end of this practice, you should be able to
+
+- Set up Webpack
+- Explain how a frontend (this project) and backend (the Node version of this
   project) relate to and communicate with each other
-- Know how to use JavaScript to manage the DOM
-  - Know how to query the DOM using JavaScript
-  - Know how to change the DOM using JavaScript
-  - Know how to create event listeners
-- Be able to use CSS to style a web page
+- Use JavaScript to manage the DOM
+  - Query the DOM using JavaScript
+  - Change the DOM using JavaScript
+  - Create event listeners
+- Use CSS to style a web page
 
 ## Setup
 
