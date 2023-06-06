@@ -7,7 +7,7 @@ Ultimately, you're looking to build something like this:
 
 **[Live Demo][ttt-demo]**
 
-## Learning Goals
+## Learning goals
 
 By the end of this practice, you should be able to
 
