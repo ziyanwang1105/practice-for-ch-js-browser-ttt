@@ -1,1 +1,18 @@
 /* Your code here */
+html {
+    background-color: #333;
+    color: aliceblue;
+    --board-width: 10em;
+}
+
+ul {
+    display: flex;
+    width: var(--board-width);
+    height: var(--board-width);
+    flex-wrap: wrap;
+    list-style-type: none;
+    & > li {
+        width: calc(33% - 10px);
+        border: solid 1px white;
+    }
+}
